@@ -14,3 +14,11 @@ def solution(phone_number):
 input / output example  
 input: 01022776533  
 output: *******6533  
+=======
+`
+
+
+
+input / output example
+input: 01022776533
+output: *******6533
