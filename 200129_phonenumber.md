@@ -11,14 +11,9 @@ def solution(phone_number):
     answer = data_1.replace(data[:-4], "*"*(len(data)-4))
     return answer
 ```
-input / output example  
-input: 01022776533  
-output: *******6533  
-=======
-`
 
 
-
-input / output example
-input: 01022776533
-output: *******6533
+#### Example
+- input / output example
+- input: 01022776533
+- output: *******6533
